@@ -39,7 +39,7 @@ h2 = { version = "0.3.26", features = ["unstable"] }
 hkdf.workspace = true
 home = "0.5.9"
 http_v02.workspace = true
-idna = "0.3.0"
+idna = "0.4.0"
 indexmap.workspace = true
 k256 = "0.13.1"
 lazy-regex.workspace = true
